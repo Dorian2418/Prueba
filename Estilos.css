@@ -1,0 +1,135 @@
+﻿/* -----------------------General ---------------------*/
+
+body {
+    background-image: linear-gradient(45deg,#111340,#00cdf5);
+    background-size: 100% 500px;
+    background-repeat: no-repeat;
+    opacity: 0,1;
+}
+
+.container{
+    background-color: aliceblue;
+    margin-top: 150px;
+    padding: 20px;
+}
+
+.Descripcion {
+    padding: 50px;
+   position:relative;
+    top: 50px;
+    color: black;
+    font-size: 40px;
+    font-weight: 500;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+#BarraNavApp {
+    background-color: none;
+    font-size: 20px;
+    font-weight: 500;
+}
+.BarraSup {
+    border-bottom: 1px solid black;
+    padding: 20px;
+    background-color: none;
+    font-size: 40px;
+    font-weight: 500;
+    text-align: center;
+}
+
+.BarrasPequeñas {
+    border-bottom: 2px solid black;
+    background-color: None;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 50px;
+    margin-bottom: 50px;
+    font-size: 15PX;
+}
+
+.BtnMovimientos {
+    width: 150px;
+    height: 35px;
+    border-style: none;
+    margin-left: 10px;
+    margin-top: 10px;
+    color: rgb(199, 199, 199);
+    background-color: rgb(0, 0, 0);
+    background-image: linear-gradient(270deg,#111340,#00cdf5);
+}
+
+/* -----------------------Registro ---------------------*/
+
+/* -----------------------Login---------------------*/
+#btnInicioSesion{
+
+}
+#Login {
+   text-align: center;
+}
+/* -----------------------Home usuario ---------------------*/
+.ContImg {
+    display: flex;
+    justify-content: center;
+    font-size: 25px;
+    border-radius: 10px;
+    padding: 40px;
+    background-size: 100% auto;
+    color: black;
+    font-weight: 500;
+}
+
+#ContImgEfe {
+    background-image: url('_8e7fac01-7ab4-459c-aca6-3012a073aa5d.jpeg');
+}
+
+#ContImgFon {
+    background-image: url('_fc3cc883-9613-4c5e-84e2-d09cf8181b4b.jpeg');
+}
+
+#ContImgGas {
+    background-image: url('_f6d820af-3863-47fd-a4b4-c93856b7c811.jpeg');
+}
+
+#ContImgIng {
+    background-image: url('OIG (1).jpeg');
+}
+
+#ContImgDeu {
+    background-image: url('_fa2e15c4-dc5e-4d68-a1c1-c7d8eb285103.jpeg');
+}
+
+#ContImgCar {
+    background-image: url('_863f08ab-ad22-4940-9dad-a2db221093e3.jpeg');
+}
+
+
+#TextoBarra {
+    color: black;
+}
+
+
+#btnEnvioDatos {
+  margin-top: 30px;
+}
+
+
+
+.Movimientos {
+    padding: 10px;
+    position: relative;
+    top: 10px;
+    margin: 20px 20px;
+    background-color: rgb(0,0,0);
+    border-radius: 10px;
+    color: white;
+    align-items:center;
+}
+
+
+
